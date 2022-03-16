@@ -1,0 +1,17 @@
+=======================================
+Git Local
+========================================
+git init
+git status
+git add .
+git commit -m "some comment"
+git log
+
+
+
+================
+Github
+================
+git remote add origin https://github.com/Shardul4026/Goodwill-IT-Operation-BA-QA.git
+git branch -M main
+git push -u origin main
